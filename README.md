@@ -13,9 +13,6 @@ ResearchBot takes a financial research problem, creates a step-by-step plan, exe
 - Suggested Links section ranked by relevance (top 20)
 - Final integrated report in markdown (not separate mini summaries)
 - Optional report refinement from user feedback
-- Optional chart rendering (bar/line) in final report
-- Year-aware filtering:
-  - if a project specifies an explicit year (e.g. 2026), the pipeline only uses sources matching that year
 
 ## Tech Stack
 
