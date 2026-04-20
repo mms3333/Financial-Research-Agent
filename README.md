@@ -113,19 +113,5 @@ Request shape:
 }
 ```
 
-## Notes on Visualizations
 
-The report renderer supports an optional fenced block:
-
-~~~visualization_data
-{ "charts": [...] }
-~~~
-
-If present and valid, bar/line charts are rendered above the markdown report.
-
-## Security
-
-- `.env.local` is gitignored
-- Never commit live API keys
-- Rotate keys immediately if they are ever exposed
 
