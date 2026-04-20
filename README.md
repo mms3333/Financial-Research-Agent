@@ -4,6 +4,8 @@ An autonomous equity research agent built with Next.js 14 (App Router), OpenAI, 
 
 ResearchBot takes a financial research problem, creates a step-by-step plan, executes each step with Tavily web search, and produces a detailed integrated report with sources and optional visualizations.
 
+Please look at the ResearchBot UI Example/Walkthrough to see a demo of the UI.
+
 ## Features
 
 - Project input workflow for equity research questions
