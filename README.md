@@ -6,6 +6,10 @@ ResearchBot takes a financial research problem, creates a step-by-step plan, exe
 
 Please look at the ResearchBot UI Example/Walkthrough to see a demo of the UI.
 
+## Next Release
+
+A multi-agent decision system which includes a bull agent (to analyze the upside situation), a bear agent (to analyze the downside situation), and portfolio manager agent to weigh both and make a final investment decision.
+
 ## Features
 
 - Project input workflow for equity research questions
