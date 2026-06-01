@@ -12,7 +12,7 @@ Please look at the ResearchBot UI Example/Walkthrough to see a demo of the UI.
 - Agent planning (4-6 actionable steps)
 - Step execution loop with Tavily-only web research
 - Streaming live progress and results in the UI
-- Suggested Links section ranked by relevance (top 20)
+- Suggested Links section sorted by relevance
 - Final integrated report in markdown (not separate mini summaries)
 - Optional report refinement from user feedback
 
@@ -58,4 +58,11 @@ lib/
     state.ts           # ResearchState annotation
     types.ts
 ```
+## LangChain
+<img width="1329" height="827" alt="image" src="https://github.com/user-attachments/assets/677b7da3-4d1e-4916-8429-07b6621ffd2c" />
+
+## Web UI
+<img width="1321" height="811" alt="image" src="https://github.com/user-attachments/assets/8c969313-4f1a-4a02-9d24-b03c34b060a3" />
+
+
 
