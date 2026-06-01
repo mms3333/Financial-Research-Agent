@@ -1,6 +1,6 @@
 # ResearchBot
 
-A multi-agent decision system which includes a bull agent (to analyze the upside situation), a bear agent (to analyze the downside situation), and portfolio manager agent to weigh both and make a final investment decision built with Next.js 14 (App Router), OpenAI, and Tavily.
+A multi-agent decision system, which includes a bull agent (to analyze the upside), a bear agent (to analyze the downside), and portfolio manager agent to weigh both and make a final investment decision built with Next.js 14 (App Router), OpenAI, and Tavily.
 
 ResearchBot takes a financial research problem, creates a step-by-step plan, executes each step with Tavily web search, and produces a detailed integrated report with sources and optional visualizations.
 
